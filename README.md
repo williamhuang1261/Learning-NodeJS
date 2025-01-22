@@ -4,6 +4,8 @@
 This is a backend movie-renting application that implements RESTful APIs using ExpressJS framework.
 The application uses MongoDB for data persistence and Winston for comprehensive logging.
 
+In this repository you will also find other documents that were created for learning purposes
+
 ### Skills Developed
 - JavaScript fundamentals and modern features
 - NodeJS runtime environment and ecosystem
@@ -22,6 +24,8 @@ These files were created by following Code with Mosh online courses.
 ## Français
 Ceci est une application backend de location de films qui implémente des APIs RESTful avec le framework ExpressJS.
 L'application utilise MongoDB pour la persistence des données et Winston pour la gestion des logs.
+
+Dans ce fichier, vous trouverez aussi d'autres document qui ont été créés pour l'apprentissage
 
 ### Compétences Développées
 - Fondamentaux JavaScript et fonctionnalités modernes
