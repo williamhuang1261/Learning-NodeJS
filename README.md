@@ -16,6 +16,7 @@ In this repository you will also find other documents that were created for lear
 - Robust error handling practices
 
 These files were created by following Code with Mosh online courses.
+Course: The Complete Node.js Course (https://codewithmosh.com/p/the-complete-node-js-course)
 
 ---
 
@@ -37,5 +38,6 @@ Dans ce fichier, vous trouverez aussi d'autres document qui ont été créés po
 - Pratiques de gestion d'erreurs robuste
 
 Ces fichiers ont été créés en suivant les cours en ligne de Code with Mosh.
+Cours: The Complete Node.js Course (https://codewithmosh.com/p/the-complete-node-js-course)
 
 ---
