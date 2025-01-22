@@ -1,0 +1,73 @@
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"error","message":"Operation `genres.insertOne()` buffering timed out after 10000ms Operation `genres.insertOne()` buffering timed out after 10000ms","stack":"MongooseError: Operation `genres.insertOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (C:\\Users\\willi\\OneDrive\\Documents\\Programmation\\Node js\\vidly\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:198:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at processTimers (node:internal/timers:514:7)"}
+{"level":"error","message":"Operation `genres.insertOne()` buffering timed out after 10000ms Operation `genres.insertOne()` buffering timed out after 10000ms","stack":"MongooseError: Operation `genres.insertOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (C:\\Users\\willi\\OneDrive\\Documents\\Programmation\\Node js\\vidly\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:198:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at processTimers (node:internal/timers:514:7)"}
+{"level":"error","message":"Operation `genres.insertOne()` buffering timed out after 10000ms Operation `genres.insertOne()` buffering timed out after 10000ms","stack":"MongooseError: Operation `genres.insertOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (C:\\Users\\willi\\OneDrive\\Documents\\Programmation\\Node js\\vidly\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:198:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at processTimers (node:internal/timers:514:7)"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..."}
+{"kind":"ObjectId","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (C:\\Users\\willi\\OneDrive\\Documents\\Programmation\\Node js\\vidly\\node_modules\\mongoose\\lib\\query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (C:\\Users\\willi\\OneDrive\\Documents\\Programmation\\Node js\\vidly\\node_modules\\mongoose\\lib\\query.js:4592:15)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","stringValue":"\"1\"","value":"1","valueType":"string"}
+{"kind":"ObjectId","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (C:\\Users\\willi\\OneDrive\\Documents\\Programmation\\Node js\\vidly\\node_modules\\mongoose\\lib\\query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (C:\\Users\\willi\\OneDrive\\Documents\\Programmation\\Node js\\vidly\\node_modules\\mongoose\\lib\\query.js:4592:15)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","stringValue":"\"1\"","value":"1","valueType":"string"}
