@@ -7,8 +7,8 @@ describe('auth middleware integration', () => {
   beforeEach(async () => {
     server = require('../../index');});
   afterEach(async () => {
-    server.close();
     await Genre.deleteMany({});
+    await server.close();
   });
 
   let token;
@@ -39,4 +39,11 @@ describe('auth middleware integration', () => {
     const res = await exec();
     expect(res.status).toBe(200);
   });
+});
+
+describe('TEST END', () => {
+  if (server) while (server){
+    time = 1;
+    expect(time).toBe(1);
+  }
 });

@@ -2,6 +2,7 @@ const request = require('supertest');
 const {Genre} = require('../../models/genres');
 const {User} = require('../../models/users');
 const mongoose = require('mongoose')
+
 let server;
 
 describe('/api/genre',() => {
@@ -9,8 +10,8 @@ describe('/api/genre',() => {
     server = require('../../index');
   });
   afterEach(async () => {
-    server.close();
     await Genre.deleteMany({});
+    await server.close();
   });
 
   describe('GET /', () => {
@@ -250,5 +251,12 @@ describe('/api/genre',() => {
       expect(res.body).toHaveProperty('_id', genre._id.toHexString());
       expect(res.body).toHaveProperty('name', genre.name);
     });
-  });  
+  }); 
+  
+  describe('TEST END', () => {
+    if (server) while (server){
+      time = 1;
+      expect(time).toBe(1);
+    }
+  });
 });
